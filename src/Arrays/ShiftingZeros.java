@@ -1,6 +1,12 @@
 package Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
+/*
+ *   Input arr = {0, 1, 0, 3, 12}
+ *  Output arr = {1, 3, 12, 0, 0}
+ * 
+ *    
+ */
 public class ShiftingZeros {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
